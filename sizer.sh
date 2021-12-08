@@ -10,5 +10,5 @@ elif
 elif
 [ $my_file_size -eq 1024 ];
 	then
-		echo "OK"
+		echo "OK!"
 fi
