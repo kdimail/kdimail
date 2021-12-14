@@ -1,6 +1,2 @@
 qwerty112233
-<<<<<<< HEAD
 today is a test day
-=======
-test day
->>>>>>> b827d3dcca3eaadd91ca25855d27cc02fb30ae68
